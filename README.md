@@ -4,5 +4,5 @@ This is a *frontend + backend* site used for booking Flights/Trains/Bus and also
 The databases are created in MySQL and the frontend is created using HTML in PHP files.
 
 
-#VIEW
+**VIEW : **
 https://bookmytrip-enjoy.herokuapp.com/status.php
