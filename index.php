@@ -17,7 +17,7 @@
         <ul style="float: right;">
           <li><a class="nav-link scrollto active" href="#">Book a Ticket</a></li>
           <li><a class="nav-link scrollto" href="status.php">Booking Status</a></li>
-		  <li><a class="nav-link scrollto" href="../Booking/BookingAdmin/login.php">Admin Page</a></li>
+		  <li><a class="nav-link scrollto" href="BookingAdmin/login.php">Admin Page</a></li>
         </ul>
         <!-- <i class="bi bi-list mobile-nav-toggle"></i> -->
       </nav>
