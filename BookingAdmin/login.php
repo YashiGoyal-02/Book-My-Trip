@@ -24,7 +24,7 @@
         <a id="logo" style="font-family: 'Tangerine', serif; font-size: 40px; color: purple; display: inline;" class="nav-link scrollto active" href="../index.php">BookMyTrip</a>
     </nav>
 
-    <form action="validate.php" method="post">
+    <form action="BookingAdmin/validate.php" method="post">
         <div class="login-box">
             <h1>Login</h1>
  
