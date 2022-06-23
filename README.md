@@ -5,4 +5,4 @@ The databases are created in MySQL and the frontend is created using HTML in PHP
 
 
 **VIEW :**
-https://bookmytrip-enjoy.herokuapp.com/status.php
+https://bookmytrip-enjoy.herokuapp.com/index.php
