@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title></title>
-	<link href="css/style.css" rel="stylesheet">
+	<link href="./css/style.css" rel="stylesheet">
 	<link href="http://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet" type="text/css" />
 </head>
 <!-- <body style="background-color: #eacdbc"> -->
